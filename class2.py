@@ -123,9 +123,8 @@
 # print("Your name is" , name)
 # print(type(name))
 
-# age = int(input("Enter your age : "))
-
 #Input Output
+# age = int(input("Enter your age : "))
 # if age > 18:
 #     print("Your age more than 18")
 # elif age == 18:
